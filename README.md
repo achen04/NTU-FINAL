@@ -1,4 +1,4 @@
-# NTU-FINAL
+# parsley-eyewear
 
 First full website created using Bootstrap theme.
 
